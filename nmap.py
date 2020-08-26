@@ -1,4 +1,5 @@
 #!/usr/bin/python3  #can even use #!/usr/bin/env python (which detects the python versions itself)
+#Author: ColdFusionX
 
 import nmap  #importing the nmap module
 
